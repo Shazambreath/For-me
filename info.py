@@ -18,9 +18,9 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-API_ID = int(environ['API_ID'])
-API_HASH = environ['API_HASH']
-BOT_TOKEN = environ['BOT_TOKEN']
+API_ID = int(environ.get('API_ID', ''))
+API_HASH = environ.get('API_HASH', '')
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 SESSION = environ.get('SESSION', 'Media_search')
 
 # Admin, Channels
