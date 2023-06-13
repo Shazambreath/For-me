@@ -1,5 +1,6 @@
-pyrogram>=2.0.30 
-TgCrypto
+# --- For-Bot-Working --------- #
+pyrogram>=2.0.30
+
 tgcrypto
 requests
 bs4
