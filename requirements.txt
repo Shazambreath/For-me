@@ -1,4 +1,5 @@
-pyrogram>=2.0.30       
+pyrogram>=2.0.30 
+git+https://github.com/Joelkb/cinemagoer
 tgcrypto
 requests
 bs4
