@@ -2,7 +2,7 @@
 pyrogram
 TgCrypto
 pyromod==1.5
-pyromod==1.5
+
 requests
 bs4
 python-dotenv
