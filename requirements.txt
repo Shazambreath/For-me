@@ -1,4 +1,4 @@
-git+https://github.com/Shazambreath/For-me                        
+pyrogram                       
 tgcrypto
 requests
 bs4
